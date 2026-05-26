@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "The Andromeda Nebula — Data Sampler Summary"
 description: >-
@@ -30,4 +29,3 @@ alt: "Visual summary of The Andromeda Nebula's key concepts"
 pin: false
 fallback:
 ---
-```

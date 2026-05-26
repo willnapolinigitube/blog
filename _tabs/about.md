@@ -3,21 +3,21 @@
 icon: fas fa-info-circle
 order: 4
 ---
-<!-- ![About](/assets/img/headers/digitalden2.webp) -->
-Hi, I'm Will — a lifelong learner, avid gamer, and content creator passionate about sharing powerful strategies from World of Warcraft, the latest gaming gear, and turning complex topics into practical insights.
+<!-- ![About](/assets/img/headers/about-books-data.webp) -->
+Hi, I'm Will — a lifelong learner, book lover, and data enthusiast passionate about distilling powerful insights from non‑fiction books and sharing AI‑generated data samples that turn complex ideas into hands‑on learning.
 
-This blog is where I share in-depth guides, quick tips, and thoughts on topics that have expanded my horizons — from gaming and technology to AI, automation, productivity, and even a bit of blogging wisdom. Whether you're looking to master WoW mechanics, discover the best gaming equipment, or explore hidden gems in tech and automation, my goal is to make the best ideas more accessible and applicable in real life.
+This blog is where I share clear, structured book summaries and curated AI data snippets—from data science, machine learning, and Python coding to productivity, psychology, and personal growth. Whether you want to absorb the core ideas of best‑selling books quickly or get practical datasets and code examples to experiment with, my goal is to make knowledge more accessible, actionable, and ready to apply in your own projects.
 
 ## What You'll Find Here
-I break down content into:
-- **Guides**: Concise and comprehensive walkthroughs of key strategies and mechanics
-- **Insights**: Personal reflections and how I apply ideas in everyday gaming and life
-- **Thematic Collections**: Curated content by topic (e.g., raiding strategies, gear optimization, automation tools)
+I organise content into:
+- **Book Summaries**: In‑depth, structured breakdowns of non‑fiction books, capturing key arguments, actionable takeaways, and memorable quotes.
+- **AI Data Samples**: Curated datasets, code snippets, and example outputs generated with AI tools—perfect for learning, prototyping, or sparking new ideas.
+- **Thematic Collections**: Grouped posts by topics (e.g., decision‑making, AI ethics, habit formation, Python data analysis) so you can dive deeper into what interests you.
 
 ## Contact
 If you have questions, suggestions, or just want to chat — I'm always happy to connect!
  
-💬 **Telegram**: [@wowoffhead](https://t.me/wowoffhead)  
+💬 **Telegram**: [@willreadsdata](https://t.me/willreadsdata)  
 
 ## Disclaimer
-Some links to products and services on this site are affiliate links. This means that if you click through and make a purchase, I may receive a small commission — at no extra cost to you. This helps support the blog and allows me to continue sharing useful content. Thank you for your support!
+Some links to books, tools, and services on this site are affiliate links. This means that if you click through and make a purchase, I may receive a small commission — at no extra cost to you. This helps support the blog and allows me to continue sharing useful content. Thank you for your support!

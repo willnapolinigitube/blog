@@ -20,7 +20,7 @@ tags: [
   child-centered-education-philosophy,
   neurodiversity-affirming-approach,
   expulsion-to-belonging-arc,
-  "you-are-really-a-good-child-mantra,
+  you-are-really-a-good-child-mantra,
   free-period-choice-learning,
   nature-integration-in-lessons,
   music-and-movement-pedagogy,
